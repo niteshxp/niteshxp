@@ -1,7 +1,7 @@
 # NiteshPatel
 Hey there! 👋
 
-* I'm pre-final year B.tech student pursuing computer science.
+* I'm final year B.tech student pursuing computer science.
 * I'm web dev and python developer.
 * I'm currently learning backend and exploring ML.
 * I'm self taught programmer.
