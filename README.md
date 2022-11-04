@@ -5,7 +5,6 @@ Hey there! 👋
 * I'm front end web dev and python developer.
 * I'm self taught programmer.
 * Looking forward to contribute in open source project. 
-
 [![@niteshxp's Holopin board](https://holopin.me/niteshxp)](https://holopin.io/@niteshxp)
 
 # Tech Stack
