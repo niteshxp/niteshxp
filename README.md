@@ -1,5 +1,7 @@
 # Nitesh Patel
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshxp&label=Profile%20views&color=0e75b6&style=flat" alt="niteshxp" /> </p>
 Hey there! 👋
+
 
 * I'm final year B.tech student pursuing computer science.
 * I'm front end web dev and python developer.
