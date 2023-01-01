@@ -4,9 +4,10 @@ Hey there! 👋
 
 
 * I'm final year B.tech student pursuing computer science.
-* I'm front end web dev and python developer.
+* I'm passionate front end dev and python developer.
 * I'm self taught programmer.
-* Looking forward to contribute in open source project. 
+* Looking forward to contribute in open source project.
+ 
 [![@niteshxp's Holopin board](https://holopin.me/niteshxp)](https://holopin.io/@niteshxp)
 
 # Tech Stack
@@ -23,6 +24,8 @@ Hey there! 👋
 
 
 <b>My GitHub Stats</b>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshxp&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="niteshxp">
 
 <a href="http://www.github.com/niteshxp"><img src="https://github-readme-stats.vercel.app/api?username=niteshxp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="niteshxp's GitHub stats" /></a>
 
