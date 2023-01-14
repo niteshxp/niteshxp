@@ -4,10 +4,9 @@ Hey there! 👋
 
 
 * I'm final year B.tech student pursuing computer science.
-* I'm passionate front end dev and python developer.
+* I'm passionate Web and python developer.
 * I'm self taught programmer.
 * Currently learning backend.
-* Looking forward to contribute in open source project.
  
 [![@niteshxp's Holopin board](https://holopin.me/niteshxp)](https://holopin.io/@niteshxp)
 
