@@ -8,7 +8,6 @@ Hey there! 👋
 * I'm self taught programmer.
 * Currently learning backend.
 
-<img src="https://camo.githubusercontent.com/2f4b6ad62c9141d30c74f74e9f6907aeed66d362ba83adfca5998b6575d9bee9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61736162656e656826636f6c6f723d677265656e" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=niteshxp&amp;color=green" style="max-width: 100%;">
 
  
 [![@niteshxp's Holopin board](https://holopin.me/niteshxp)](https://holopin.io/@niteshxp)
