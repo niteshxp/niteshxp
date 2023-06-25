@@ -2,15 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshxp&label=Profile%20views&color=0e75b6&style=flat" alt="niteshxp" /> </p>
 Hey there! 👋
 
-
-* I'm final year B.tech student pursuing computer science.
-* I'm passionate Web and python developer.
-* I'm self taught programmer.
-* Currently learning backend.
-
-
- 
-[![@niteshxp's Holopin board](https://holopin.me/niteshxp)](https://holopin.io/@niteshxp)
+* I'm 
 
 # Tech Stack
 
@@ -23,6 +15,8 @@ Hey there! 👋
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+[![@niteshxp's Holopin board](https://holopin.me/niteshxp)](https://holopin.io/@niteshxp)
 
 
 <b>My GitHub Stats</b>
