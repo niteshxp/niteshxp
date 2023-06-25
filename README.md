@@ -2,8 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshxp&label=Profile%20views&color=0e75b6&style=flat" alt="niteshxp" /> </p>
 Hey there! 👋
 
-* I'm 
-
 # Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
