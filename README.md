@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Nitesh Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello👋, I'm Nitesh Patel</h1>
+<h3 align="center">I am a software engineer </h3>
 <img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" height="250px"/>
 
 <h3 align="left">Languages and Tools:</h3>
